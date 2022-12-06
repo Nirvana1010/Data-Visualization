@@ -3,4 +3,4 @@ Data Visualization course projects written in Python, based on library `Matplotl
 **Codes are in my private repository.**
 
 ## Practice 2 - Histograms of binomial distributions (optional)
-![Binomial Distribution](Project 2/output.png)
+![Binomial Distribution](figures/Project2_fig1.png)
