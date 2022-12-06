@@ -22,7 +22,7 @@ Data Visualization course projects written in `Python`, based on library `Matplo
 ![](figures/Project4_fig6.png) \
 ![](figures/Project4_fig7.png) \
 ![](figures/Project4_fig8.png) \
-![](figures/Project4_fig9.png) \
-![](figures/Project4_fig10.png) \
-![](figures/Project4_fig11.png) \
+![](figures/Project4_fig9.gif) \
+![](figures/Project4_fig10.gif) \
+![](figures/Project4_fig11.gif) \
 ![](figures/Project4_fig12.gif) 
