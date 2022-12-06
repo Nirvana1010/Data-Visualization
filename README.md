@@ -57,8 +57,7 @@ See full results for *[project 10](markdowns/Project10.md)*.
 ## Project 11 - Spatial data clustering (part 2)
 See full results for *[project 11](markdowns/Project11.md)*. 
 
-![](figures/Project11_fig4.png) \
-![](figures/Project11_fig6.png) 
+![](figures/Project11_fig4.png) 
 
 ## Project 12 - Digital elevation maps (part 1)
 See full results for *[project 12](markdowns/Project12.md)*. 
