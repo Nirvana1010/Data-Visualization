@@ -7,4 +7,22 @@ Data Visualization course projects written in `Python`, based on library `Matplo
 ![](figures/Project2_fig3.png) 
 
 ## Project 3 - Stock market indices from CSV files
-[3D_elevation](/figures/3D_elevation_plot_of_region_one_of_Grand_Canyon.html) 
+![](figures/Project3_fig1.png) \
+![](figures/Project3_fig2.png) \
+![](figures/Project3_fig3.png) \
+![](figures/Project3_fig4.png) \
+![](figures/Project3_fig5.png) 
+
+## Project 4 - Orbital paths via differential eqs
+![](figures/Project4_fig1.png) \
+![](figures/Project4_fig2.png) \
+![](figures/Project4_fig3.png) \
+![](figures/Project4_fig4.png) \
+![](figures/Project4_fig5.png) \
+![](figures/Project4_fig6.png) \
+![](figures/Project4_fig7.png) \
+![](figures/Project4_fig8.png) \
+![](figures/Project4_fig9.png) \
+![](figures/Project4_fig10.png) \
+![](figures/Project4_fig11.png) \
+![](figures/Project4_fig12.png) 
