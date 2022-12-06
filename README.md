@@ -1,5 +1,5 @@
 # Data Visualization
-Data Visualization course projects written in `Python`, based on library `Matplotlib` and `Plotly`. 
+Data Visualization course projects written in `Python`, based on libraries `Matplotlib` and `Plotly`. 
 
 **Codes are in my private repository.** Feel free to reach out to me for access.
 
