@@ -1,5 +1,9 @@
 # Data Visualization
-Data Visualization course projects written in `Python`, based on library `Matplotlib` and `Plotly`. **Codes are in my private repository.**
+Data Visualization course projects written in `Python`, based on library `Matplotlib` and `Plotly`. 
+
+**Codes are in my private repository.** Feel free to reach out to me for access.
+
+To save some space, I only list `representative` figures here. Please click the links below to see the full results for each project.
 
 ## Practice 2 - Histograms of binomial distributions (optional)
 See full results for *[practice 2](markdowns/Project2.md)*. 
