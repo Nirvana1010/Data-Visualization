@@ -7,4 +7,4 @@ Data Visualization course projects written in `Python`, based on library `Matplo
 ![](figures/Project2_fig3.png) 
 
 ## Project 3 - Stock market indices from CSV files
-[3D_elevation](https://github.com/Nirvana1010/Data-Visualization/blob/main/figures/3D_elevation_plot_of_region_one_of_Grand_Canyon.html) 
+[3D_elevation](/figures/3D_elevation_plot_of_region_one_of_Grand_Canyon.html) 
