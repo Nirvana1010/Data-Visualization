@@ -25,4 +25,4 @@ Data Visualization course projects written in `Python`, based on library `Matplo
 ![](figures/Project4_fig9.png) \
 ![](figures/Project4_fig10.png) \
 ![](figures/Project4_fig11.png) \
-![](figures/Project4_fig12.png) 
+![](figures/Project4_fig12.gif) 
