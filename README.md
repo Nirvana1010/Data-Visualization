@@ -72,4 +72,8 @@ See full results for *[project 13](markdowns/Project13.md)*.
 
 ![](figures/Project13_fig7.png) 
 
-## Project 14 - CT images
+## Project 14 - CT images# Data-Visulization-Codes
+See full results for *[project 14](markdowns/Project14.md)*. 
+
+![](figures/Project14_fig5.png) 
+![](figures/Project14_fig10.gif) 
